@@ -1,5 +1,3 @@
-# Laboratorio per il corso di Algoritmi e Strutture Dati
-
 Il presente documento riporta i testi degli esercizi da svolgere e consegnare al fine di poter
 sostenere la prova di laboratorio per il corso di Algoritmi e Strutture Dati, preceduti da alcune
 indicazioni e suggerimenti relativi allo svolgimento degli stessi.
