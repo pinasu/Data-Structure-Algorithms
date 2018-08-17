@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 This is my Algorithm and Data Structure project for the year 2017. It is obviously not optimal in some ways, but I'm still working on it even if I already passed my exam.
 
 #1. Sorting Algorithms
-=======
-Il presente documento riporta i testi degli esercizi da svolgere e consegnare al fine di poter
-sostenere la prova di laboratorio per il corso di Algoritmi e Strutture Dati, preceduti da alcune
-indicazioni e suggerimenti relativi allo svolgimento degli stessi.
->>>>>>> 530680b924bb757e770f8b9f45d502b8b8a892fe
 
 Implement the following sorting algorithms:
 
