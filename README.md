@@ -1,6 +1,6 @@
 This is my Algorithm and Data Structure project for the year 2017. It is obviously not optimal in some ways, but I'm still working on it even if I already passed my exam.
 
-#1. Sorting Algorithms
+# 1. Sorting Algorithms
 
 Implement the following sorting algorithms:
 
@@ -27,7 +27,7 @@ For every implemented algorithm, sort records inside `records.csv`file in a non-
 based on field values (so, for every algorithm, sorting must be executed three times: one for any
 field).
 
-##2. N-ary tree implementation
+## 2. N-ary tree implementation
 
 N-ary Tree implementation, in which every node has a pointer to its parent, its left and right child.
 Data structure must be able to manage generic types, permit to have a not previously known and arbitrary
@@ -64,19 +64,19 @@ N:0000 -- N:0001 -- N:0003
 	   \_ N:0002
 ```
 
-##3. Max Heap implementation.
+## 3. Max Heap implementation.
 
 Implement an iterative and a recursive version of an algorithm that takes an array as input and verifies if it represents a Max Heap.
 Array's element type is not previously known, and user can be able to specify sorting criterium.
 
 
-##4. UnionFind data structure implementation
+## 4. UnionFind data structure implementation
 
 Implement the UnionFind data structure. Structure must permit to insert generic type objects and not forecast an initial
 finite element set.
 
 
-## Esercizio 5
+## 5. Kruskal's Algorithm
 Implement the direct Graph data structure so that it is optimal for sparse data.
 
 Implement a function that returns the graph weight. Implement the Kruskal's Algorithm to find the minimum spanning tree of a graph.
