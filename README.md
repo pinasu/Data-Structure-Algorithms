@@ -1,6 +1,6 @@
 This is my Algorithm and Data Structure project for the year 2017. It is obviously not optimal in some ways, but I'm still working on it even if I already passed my exam.
 
-# 1. Sorting Algorithms
+## 1. Sorting Algorithms
 
 Implement the following sorting algorithms:
 
