@@ -70,7 +70,7 @@ Implement an iterative and a recursive version of an algorithm that takes an arr
 Array's element type is not previously known, and user can be able to specify sorting criterium.
 
 
-## 4. UnionFind data structure implementation
+## 4. UnionFind Data Structure implementation
 
 Implement the UnionFind data structure. Structure must permit to insert generic type objects and not forecast an initial
 finite element set.
